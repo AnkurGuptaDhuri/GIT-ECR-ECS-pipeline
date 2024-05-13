@@ -1,0 +1,11 @@
+#how to create requirements.txt  $pip freeze > requirement.txt
+
+blinker==1.8.2
+click==8.1.7
+colorama==0.4.6
+Flask==3.0.3       ####flask
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+python-dotenv==1.0.1    ###environment variables and debug mode controls.
+Werkzeug==3.0.3
